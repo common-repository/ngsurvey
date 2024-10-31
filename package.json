@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@sweetalert2/theme-wordpress-admin": "^5.0",
+    "chart.js": "^3.0",
+    "chartjs-adapter-moment": "^1.0",
+    "chartjs-chart-geo": "^3.0",
+    "gemini-datepicker": "^1.0",
+    "jquery-validation": "^1.0",
+    "leaflet": "^1.0",
+    "leaflet-geosearch": "^3.0",
+    "leaflet.markercluster": "^1.0",
+    "select2": "^4.0",
+    "sweetalert2": "11.4.8"
+  }
+}

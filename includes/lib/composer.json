@@ -1,0 +1,13 @@
+{
+	"require" : {
+		"matomo/device-detector" : "~6.0",
+		"pelago/emogrifier" : "~6.0",
+		"woocommerce/action-scheduler" : "~3.0",
+		"monolog/monolog" : "~2.0"
+	},
+	"config" : {
+		"platform" : {
+			"php" : "7.2"
+		}
+	}
+}
